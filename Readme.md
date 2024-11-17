@@ -4,7 +4,7 @@
 - **Playlists**: Create and manage custom playlists.  
 - **History Tracking**: Keep track of watched content.  
 - **JWT Authentication**: Secure user login and session management.  
-- **Seamless Third-Party API Integration**: Enhance functionality
+- **Seamless Cloudinary Third-Party API Integration**: Enhance functionality
 
 
 ## Prerequisites
